@@ -4,4 +4,4 @@
 #
 ![category](https://github.com/dougbhigh/KickstarterXL/blob/master/images/category.png)
 #
-![months](https://github.com/dougbhigh/KickstarterXL/blob/master/images/months.png)
+![months](https://github.com/dougbhigh/KickstarterXL/blob/master/images/month.png)
